@@ -8,6 +8,7 @@ Brachiation experiment without aerial phase (experiment condition 2: different h
 
 https://github.com/user-attachments/assets/6e66244c-b389-4f68-90cd-e50f66e8380d
 
+----------------------------------------------------------------------------------------------------------------------
 Brachiation experiment with aerial phase.
 
 
